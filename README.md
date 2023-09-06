@@ -1,6 +1,6 @@
 ## Pcb Design of Arduino UNO Board
 
-## Arduino UNO
+# Arduino UNO
 
 A detailed ***PCB design*** of the Arduino UNO board, including schematics, layout files, and documentation.
 
