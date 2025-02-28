@@ -4,25 +4,6 @@
 
 A detailed ***PCB design*** of the Arduino UNO board, including schematics, layout files, and documentation.
 
-**Table of Contents**
-
-
-*Introduction*
-
-*Features*
-
-*Getting Started*
-
-*Prerequisites*
-
-*Installation*
-
-*Usage*
-
-*Contributing*
-
-*License*
-
 
 **Introduction**
 
@@ -36,10 +17,6 @@ Highlight the key features of your PCB design. This could include:
 -> Schematics of the Arduino UNO.
 
 -> PCB layout files.
-
--> Bill of Materials (BOM).
-
--> Any additional documentation or design notes.
 
 **Getting Started**
 
@@ -59,26 +36,6 @@ Outline the steps to install or use your PCB design. For example:
 
 Clone this repository:
 
-*bash*
 
-*git clone https://github.com/yourusername/Pcb-Design-of-Arduino-UNO-Board.git*
+*git clone https://github.com/K-Satya-Prakash/Pcb-Design-of-Arduino-UNO-Board.git*
 
-Open the PCB design files in your preferred PCB design tool.
-
-Customize the design as needed.
-
-Generate Gerber files for PCB manufacturing.
-
-**Usage**
-
-Explain how to use the PCB design. Include any specific instructions, guidelines, or precautions. You can also provide example use cases or scenarios.
-
-**Contributing**
-
-If you want to encourage contributions from the community, provide guidelines for how users can contribute to your project. Include information about how to report issues, suggest improvements, or submit pull requests.
-
-**License**
-
-Specify the license under which your project is released. For example:
-
-This project is licensed under the MIT License - see the LICENSE file for details.
